@@ -1,0 +1,9 @@
+[project]
+name = "finanzas-core"
+version = "0.1.0"
+description = "Lógica de dominio de Finanzas la App"
+authors = ["Johannes Talero"]
+dependencies = []
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
